@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "H:/Github Repos/Netflix-Inspired-Web-App/Frontend/netflix.html" }
+    { "source": "/(.*)", "destination": "/Frontend/netflix.html" }
   ]
 }
